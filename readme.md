@@ -10,7 +10,7 @@
 ## Examples
 
 - [Budget Notifier](https://github.com/stefanfreitag/cdktf-budget-notifier) - A AWS Budget notifier.
-- [Cloudfront SSL Proxy](https://github.com/skorfmann/cdkweekly) - A Cloudfront SSL proxy for [cdkweekly.com](https:/www.cdkweekly.com).
+- [Cloudfront SSL Proxy](https://github.com/skorfmann/cdkweekly) - A Cloudfront SSL proxy for [cdkweekly.com](https://www.cdkweekly.com).
 - [Hybrid Terraform Module](https://github.com/skorfmann/cdktf-hybrid-module) - A `cdktf` constructs npm package, which doubles as native Terraform module.
 
 ## Blog Posts
