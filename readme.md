@@ -22,6 +22,7 @@
 - [Deploy Azure Kubernetes Service (AKS) using TypeScript](https://markwarneke.me/2020-07-23-Deploy-AKS-Kubernetes-Using-TypeScript-Terraform-CDK/) - by Mark Warneke.
 - [Should You Use Typescript To Write Terraform? (The Terraform CDK)](https://dev.to/loujaybee/should-you-use-typescript-to-write-terraform-the-terraform-cdk-cm) - by [Lou](https://dev.to/loujaybee).
 - [Getting started with CDK for Terraform](https://dev.to/abhishekamralkar/getting-started-with-cdk-for-terraform-5d9l) - by [Abhishek A Amralkar](https://dev.to/abhishekamralkar).
+- [A Terraform CDK Construct which doubles as native Terraform Module](https://dev.to/skorfmann/a-terraform-cdk-construct-which-doubles-as-native-terraform-module-447k) - by [Sebastian Korfmann](https://twitter.com/skorfmann).
 
 ## Related Projects
 
