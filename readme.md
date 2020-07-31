@@ -1,6 +1,6 @@
 # Awesome Terraform CDK [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of awesome Terraform CDK (cdktf) open-source projects, guides, blogs and other resources.
+> A curated list of awesome [Terraform CDK (cdktf)](https://cdk.tf) open-source projects, guides, blogs and other resources.
 
 ## Contents
 
