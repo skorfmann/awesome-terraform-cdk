@@ -23,6 +23,8 @@
 - [Should You Use Typescript To Write Terraform? (The Terraform CDK)](https://dev.to/loujaybee/should-you-use-typescript-to-write-terraform-the-terraform-cdk-cm) - by [Lou](https://dev.to/loujaybee).
 - [Getting started with CDK for Terraform](https://dev.to/abhishekamralkar/getting-started-with-cdk-for-terraform-5d9l) - by [Abhishek A Amralkar](https://dev.to/abhishekamralkar).
 - [A Terraform CDK Construct which doubles as native Terraform Module](https://dev.to/skorfmann/a-terraform-cdk-construct-which-doubles-as-native-terraform-module-447k) - by [Sebastian Korfmann](https://twitter.com/skorfmann).
+- [CDK for Terraform Transition -L1 constructs](https://awsbloglink.wordpress.com/2020/07/26/cdk-for-terraform-transition-l1-constructs/) - by [かれー(curry)](https://twitter.com/curry9999).
+- [Why the CDK for Terraform has got me all excited!](https://www.linkedin.com/pulse/why-cdk-terraform-has-got-me-all-excited-sayan-ghosh/) - by [Sayan Ghosh](https://twitter.com/sayanghosh).
 
 ## Related Projects
 
