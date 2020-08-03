@@ -26,6 +26,7 @@
 - [A Terraform CDK Construct which doubles as native Terraform Module](https://dev.to/skorfmann/a-terraform-cdk-construct-which-doubles-as-native-terraform-module-447k) - by [Sebastian Korfmann](https://twitter.com/skorfmann).
 - [CDK for Terraform Transition -L1 constructs](https://awsbloglink.wordpress.com/2020/07/26/cdk-for-terraform-transition-l1-constructs/) - by [かれー(curry)](https://twitter.com/curry9999).
 - [Why the CDK for Terraform has got me all excited!](https://www.linkedin.com/pulse/why-cdk-terraform-has-got-me-all-excited-sayan-ghosh/) - by [Sayan Ghosh](https://twitter.com/sayanghosh).
+- [Host Static website using AWS CDK for Terraform](https://dev.to/thakkaryash94/host-static-website-using-aws-cdk-for-terraform-part-1-57ki) - by [Yash Thakkar](https://twitter.com/mrviyet)
 
 ## Related Projects
 
