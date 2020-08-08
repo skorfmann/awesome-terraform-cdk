@@ -5,6 +5,7 @@
 ## Contents
 
 - [Examples](#examples)
+- [Tools](#tools)
 - [Blog Posts](#blog-posts)
 - [Related Projects](#related-projects)
 
@@ -14,6 +15,10 @@
 - [Cloudfront SSL Proxy](https://github.com/skorfmann/cdkweekly) - A Cloudfront SSL proxy for [cdkweekly.com](https://www.cdkweekly.com).
 - [Hybrid Terraform Module](https://github.com/skorfmann/cdktf-hybrid-module) - A `cdktf` constructs npm package, which doubles as native Terraform module.
 - [Simple HelloWorld API Gateway](https://github.com/stefanfreitag/terraform/tree/master/cdktf-aws-lambda-helloWorld) - An API Gateway / Lambda example with the Terraform CDK.
+
+## Tools
+
+- [hcl2cdktf](https://github.com/iann0036/hcl2cdktf) - Converts HCL to Terraform CDK.
 
 ## Blog Posts
 
